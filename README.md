@@ -2,11 +2,13 @@
 
 <!--
 **Harshmahajan2211/Harshmahajan2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-<strong>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=87CEEB&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+harsh+mahajan;Welcome+to+my+GitHub+profile!;Let's+collaborate+and+create+awesome+projects!">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=87CEEB&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Harsh+Mahajan;Welcome+to+my+GitHub+profile!;Let's+collaborate+and+create+awesome+projects!" alt="Typing SVG" />
 </p>
-</strong>
+
+---
 
 ### 👨‍💻 About Me:
 I am **Harsh Mahajan**, a driven software engineer with a strong foundation in data analysis and automation testing.  
@@ -80,6 +82,3 @@ Feel free to reach out — I’m open to new opportunities, collaborations, and 
 [![Linkedin Badge](https://img.shields.io/badge/-HarshMahajan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshmahajan2211/)](https://www.linkedin.com/in/harshmahajan2211/)  
 [![Gmail Badge](https://img.shields.io/badge/-harshmahajan2211@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshmahajan2211@gmail.com)](mailto:harshmahajan2211@gmail.com)
 
----
-
-Let me know if you'd like a downloadable version or markdown file of this!
