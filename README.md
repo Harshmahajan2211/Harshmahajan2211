@@ -48,6 +48,31 @@ Feel free to reach out — I’m open to new opportunities, collaborations, and 
 ---
 
 ### 🚀 Projects:
+#### 📌 **E-commerce Sales Performance Analysis and Insights**
+- Analyzed a comprehensive e-commerce dataset to uncover **key drivers of sales and profitability**.
+- Utilized **Pandas** for data cleaning, transformation, and **feature engineering** (discounts, sales price, profit calculation).
+- Conducted **time-based analysis** by converting order dates to datetime objects for trend observation.
+- Wrote **SQL queries** to derive valuable business insights, including:
+  - 📦 Top-performing products by revenue
+  - 🌍 Top 5 highest-selling products in each region
+  - 📈 Month-over-month sales growth (2022 vs 2023)
+  - 🗓️ Highest-sales month for each product category
+  - 💰 Sub-category with the highest profit growth in 2023 vs 2022
+- The analysis offered actionable insights for **strategic planning** and **business optimization**.
+
+**Tools & Technologies:** Python, Pandas, SQL, Jupyter Notebook
+
+#### 📌 **Diwali Sales Analysis with Python**
+- Analyzed Diwali sales data to identify trends and generate actionable insights for **data-driven decision making**.
+- Performed data cleaning, preprocessing, and visualization using **Pandas, NumPy, Matplotlib**, and **Seaborn**.
+- Identified:
+  - 🛒 Top-selling products
+  - 👤 Customer purchase behavior
+  - 📊 Regional and categorical sales trends
+- Delivered insights to optimize sales strategy, enhance marketing efforts, and increase profitability.
+- Demonstrated strong command over **data analysis**, **data visualization**, and **business intelligence reporting**.
+
+**Tools & Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
 #### 🔹 Automating an E-Commerce Website using Selenium
 - Developed an automation testing framework validating the complete product checkout flow.
@@ -60,7 +85,7 @@ Feel free to reach out — I’m open to new opportunities, collaborations, and 
 - Managed interaction with radio buttons, checkboxes, dropdowns, and date pickers.
 - Scrolling handled with JavaScript Executor.
 - Tech: **Python, Selenium, Chromedriver**
-
+  Here's a polished and well-structured version of your project descriptions, written in **GitHub-friendly markdown**, ready to be placed under the **Projects** section of your `README.md`:
 ---
 
 ### 🧾 Certifications:
